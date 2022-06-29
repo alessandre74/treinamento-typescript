@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "lib": ["ESNext", "DOM"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "src/01 - Types",
+    "src/02 - Arrays",
+    "src/03 - Tuples",
+    "src/04 - Enum",
+    "src/05 - Objects",
+    "src/06 - Funtions",
+    "src/07 - Class",
+    "src/08 - Interface",
+    "src/09 - Barrels",
+    "src/10 - Generics",
+    "src/react-alert"
+  ]
+}
