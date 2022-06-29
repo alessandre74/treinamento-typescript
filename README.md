@@ -1,6 +1,6 @@
-<div align="center" style="padding-bottom:30px; background:transparent">
+<!-- <div align="center" style="padding-bottom:30px; background:transparent"> -->
 <h1>Typescript: Tudo que você precisa saber<h1>
-</div>
+<!-- </div> -->
 
 ## 💻 Treinamento para mentoria de Lucas Albuquerque.
 
