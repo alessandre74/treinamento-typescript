@@ -3,7 +3,6 @@
     "target": "es2016",
     "module": "commonjs",
     "lib": ["ESNext", "DOM"],
-    "outDir": "./dist",
     "rootDir": "./src",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
@@ -21,6 +20,7 @@
     "src/08 - Interface",
     "src/09 - Barrels",
     "src/10 - Generics",
+    "src/11 - Fibonacci",
     "src/react-alert"
   ]
 }
