@@ -1,12 +1,14 @@
 {
   "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "lib": ["ESNext", "DOM"],
+    "allowJs": true,
+    "target": "ES2016",
+    "module": "CommonJS",
+    "lib": ["es6", "DOM", "ESNext"],
     "rootDir": "./src",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "strict": true,
+    "strict": false,
+    "strictFunctionTypes": false,
     "skipLibCheck": true
   },
   "exclude": [
@@ -21,6 +23,7 @@
     "src/09 - Barrels",
     "src/10 - Generics",
     "src/11 - Fibonacci",
+    "src/Array-first-position",
     "src/react-alert"
   ]
 }
