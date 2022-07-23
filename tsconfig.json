@@ -11,19 +11,5 @@
     "strictFunctionTypes": false,
     "skipLibCheck": true
   },
-  "exclude": [
-    "src/01 - Types",
-    "src/02 - Arrays",
-    "src/03 - Tuples",
-    "src/04 - Enum",
-    "src/05 - Objects",
-    "src/06 - Funtions",
-    "src/07 - Class",
-    "src/08 - Interface",
-    "src/09 - Barrels",
-    "src/10 - Generics",
-    "src/11 - Fibonacci",
-    "src/12 - Array-first-position",
-    "src/react-alert"
-  ]
+  "exclude": ["src/12 - Array-first-position"]
 }
