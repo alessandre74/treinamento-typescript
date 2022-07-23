@@ -42,5 +42,5 @@ npm run dev
 OBS: O exemplos estão em pastas dentro do diretório src e devem ser executados
 dentro do arquivo index.ts. Então é só copiar qualquer exemplo de uma das pastas
 e colar no arquivo index.ts e salvar que vai ser executado. Para ser executado ao
-salvar nas configurações do vscode deve estar definido "editor.formatOnSave": true.
+salvar, nas configurações do vscode deve estar definido "editor.formatOnSave": true.
 ```
