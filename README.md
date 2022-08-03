@@ -6,7 +6,7 @@
 
 ### 🚀 [Blog - Lucas Albuquerque](https://lucasalbuquerque.me/typescript-tudo-que-voce-precisa-saber/)
 
-### Cado tenha interesse em excutar os exercícios do treimanento segue abaixo:
+### Caso tenha interesse em excutar os exercícios do treimanento segue abaixo:
 
 ### Instalação
 
